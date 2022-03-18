@@ -24,3 +24,10 @@ h1 {
 p {
     font-size: 20px;
 }
+
+button {
+    color: #016f32;
+    width: 200px;
+    font-size: 25px;
+    background: #ffba08;
+}
