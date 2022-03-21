@@ -26,6 +26,8 @@ p {
 }
 
 button {
+    margin: auto;
+    display: block;
     color: #016f32;
     width: 200px;
     font-size: 25px;
@@ -34,4 +36,6 @@ button {
     font-weight: bold;
     border: none;
     border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
